@@ -1,0 +1,9 @@
+C:\Users\ssdesign02\Documents\Projects\SKTest\SKTest\bin\Debug\SKTest.dll
+C:\Users\ssdesign02\Documents\Projects\SKTest\SKTest\bin\Debug\SKTest.pdb
+C:\Users\ssdesign02\Documents\Projects\SKTest\SKTest\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ssdesign02\Documents\Projects\SKTest\SKTest\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ssdesign02\Documents\Projects\SKTest\SKTest\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ssdesign02\Documents\Projects\SKTest\SKTest\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ssdesign02\Documents\Projects\SKTest\SKTest\obj\Debug\SKTest.csprojResolveAssemblyReference.cache
+C:\Users\ssdesign02\Documents\Projects\SKTest\SKTest\obj\Debug\SKTest.dll
+C:\Users\ssdesign02\Documents\Projects\SKTest\SKTest\obj\Debug\SKTest.pdb
