@@ -1,0 +1,14 @@
+2015-10-29 18:41:02,492 - INFO - static folder : /Users/nooyahs/Desktop/soma/loci/web/locus/locus/../static
+2015-10-29 18:41:02,493 - INFO - template folder : ../templates
+2015-10-29 18:41:02,917 - INFO - static folder : /Users/nooyahs/Desktop/soma/loci/web/locus/locus/../static
+2015-10-29 18:41:02,917 - INFO - template folder : ../templates
+2015-10-29 18:41:06,777 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-10-29 18:41:17,232 - INFO - (POST)next_url is http://127.0.0.1:5000/
+2015-10-29 18:41:21,696 - INFO - (POST)next_url is http://127.0.0.1:5000/
+2015-10-29 18:41:24,930 - INFO - (POST)next_url is http://127.0.0.1:5000/
+2015-10-29 18:41:31,232 - INFO - (POST)next_url is http://127.0.0.1:5000/
+2015-10-29 18:41:39,236 - DEBUG - <User u'locus' u'nooyahs@gmail.com'>
+2015-10-29 18:41:45,798 - DEBUG - None
+2015-10-29 18:41:53,123 - DEBUG - <User u'loci' u'123@123.com'>
+2015-10-29 18:41:53,148 - INFO - (GET)next_url is 
+2015-10-29 18:41:57,320 - INFO - (POST)next_url is 

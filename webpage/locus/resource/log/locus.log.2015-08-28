@@ -1,0 +1,37 @@
+2015-08-28 04:53:41,753 - INFO - static folder : /Users/nooyahs/Desktop/soma/web/locus/locus/../static
+2015-08-28 04:53:41,753 - INFO - template folder : ../templates
+2015-08-28 04:53:42,078 - INFO - static folder : /Users/nooyahs/Desktop/soma/web/locus/locus/../static
+2015-08-28 04:53:42,078 - INFO - template folder : ../templates
+2015-08-28 04:53:52,915 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-28 10:15:32,754 - INFO - (POST)next_url is http://127.0.0.1:5000/
+2015-08-28 10:17:09,413 - INFO - static folder : /Users/nooyahs/Desktop/soma/web/locus/locus/../static
+2015-08-28 10:17:09,413 - INFO - template folder : ../templates
+2015-08-28 10:17:09,728 - INFO - static folder : /Users/nooyahs/Desktop/soma/web/locus/locus/../static
+2015-08-28 10:17:09,728 - INFO - template folder : ../templates
+2015-08-28 10:17:11,841 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/show/map
+2015-08-28 10:17:16,637 - INFO - (POST)next_url is http://127.0.0.1:5000/photo/show/map
+2015-08-28 10:17:49,512 - INFO - static folder : /Users/nooyahs/Desktop/soma/web/locus/locus/../static
+2015-08-28 10:17:49,512 - INFO - template folder : ../templates
+2015-08-28 10:17:49,776 - INFO - static folder : /Users/nooyahs/Desktop/soma/web/locus/locus/../static
+2015-08-28 10:17:49,777 - INFO - template folder : ../templates
+2015-08-28 10:17:51,624 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/show/map
+2015-08-28 10:21:54,436 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-28 10:22:48,100 - INFO - (POST)next_url is http://127.0.0.1:5000/
+2015-08-28 10:22:59,841 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-28 10:24:38,658 - DEBUG - None
+2015-08-28 10:24:49,620 - DEBUG - <User u'locus1' u'nooyahs@gmail.com'>
+2015-08-28 10:24:49,635 - INFO - (GET)next_url is 
+2015-08-28 10:24:55,254 - INFO - (POST)next_url is 
+2015-08-28 10:25:17,617 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-28 10:25:23,364 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/
+2015-08-28 10:25:26,838 - INFO - (POST)next_url is http://127.0.0.1:5000/photo/
+2015-08-28 10:29:11,771 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-28 10:29:35,025 - DEBUG - None
+2015-08-28 10:29:40,098 - DEBUG - <User u'locus2' u'nooyahs@gmail.com'>
+2015-08-28 10:29:40,139 - INFO - (GET)next_url is 
+2015-08-28 10:29:49,010 - INFO - (POST)next_url is 
+2015-08-28 10:30:02,563 - DEBUG - <User u'locus2' u'nooyahs@gmail.com'>
+2015-08-28 11:45:44,438 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-28 11:46:04,620 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/
+2015-08-28 11:46:08,299 - INFO - (POST)next_url is http://127.0.0.1:5000/photo/
+2015-08-28 11:46:15,268 - INFO - (POST)next_url is http://127.0.0.1:5000/photo/

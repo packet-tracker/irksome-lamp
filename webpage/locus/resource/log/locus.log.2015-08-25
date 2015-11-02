@@ -1,0 +1,49 @@
+2015-08-24 15:46:46,908 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/
+2015-08-24 15:46:47,177 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/
+2015-08-24 20:44:16,758 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-24 20:44:20,168 - INFO - (POST)next_url is http://127.0.0.1:5000/
+2015-08-24 20:52:31,982 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/show/map
+2015-08-24 20:53:03,105 - INFO - (POST)next_url is http://127.0.0.1:5000/photo/show/map
+2015-08-24 22:05:02,054 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-24 22:12:24,415 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-24 22:33:59,359 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/
+2015-08-24 22:34:04,501 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/search
+2015-08-24 22:34:05,811 - INFO - (GET)next_url is http://127.0.0.1:5000/user/locus
+2015-08-24 22:34:06,638 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/upload
+2015-08-24 22:34:07,507 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/show/map
+2015-08-24 23:19:53,163 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/
+2015-08-24 23:19:55,995 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/search
+2015-08-24 23:19:57,922 - INFO - (GET)next_url is http://127.0.0.1:5000/user/locus
+2015-08-24 23:19:59,007 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/upload
+2015-08-24 23:20:00,019 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/show/map
+2015-08-24 23:26:58,320 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/
+2015-08-24 23:27:00,444 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/search
+2015-08-24 23:27:01,366 - INFO - (GET)next_url is http://127.0.0.1:5000/user/locus
+2015-08-24 23:27:02,245 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/upload
+2015-08-24 23:27:03,113 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/show/map
+2015-08-25 02:06:40,842 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/
+2015-08-25 02:06:43,401 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/search
+2015-08-25 02:06:44,150 - INFO - (GET)next_url is http://127.0.0.1:5000/user/locus
+2015-08-25 02:06:45,217 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/upload
+2015-08-25 02:06:45,884 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/show/map
+2015-08-25 02:38:39,657 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/
+2015-08-25 02:38:41,475 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/search
+2015-08-25 02:38:42,241 - INFO - (GET)next_url is http://127.0.0.1:5000/user/locus
+2015-08-25 02:38:43,293 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/upload
+2015-08-25 05:42:55,276 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-25 05:42:58,800 - INFO - (POST)next_url is http://127.0.0.1:5000/
+2015-08-25 05:44:10,921 - INFO - static folder : /Users/nooyahs/Desktop/soma/web/locus/locus/../static
+2015-08-25 05:44:10,921 - INFO - template folder : ../templates
+2015-08-25 05:44:11,305 - INFO - static folder : /Users/nooyahs/Desktop/soma/web/locus/locus/../static
+2015-08-25 05:44:11,305 - INFO - template folder : ../templates
+2015-08-25 05:44:22,644 - INFO - (GET)next_url is http://127.0.0.1:5000/photo/show/map
+2015-08-25 05:44:33,621 - INFO - (POST)next_url is http://127.0.0.1:5000/photo/show/map
+2015-08-25 05:45:26,341 - INFO - static folder : /Users/nooyahs/Desktop/soma/web/locus/locus/../static
+2015-08-25 05:45:26,341 - INFO - template folder : ../templates
+2015-08-25 05:45:26,716 - INFO - static folder : /Users/nooyahs/Desktop/soma/web/locus/locus/../static
+2015-08-25 05:45:26,717 - INFO - template folder : ../templates
+2015-08-25 05:45:32,142 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-25 05:45:35,246 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-25 05:45:37,978 - INFO - (POST)next_url is http://127.0.0.1:5000/
+2015-08-25 10:30:33,297 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2015-08-25 10:30:41,617 - INFO - (POST)next_url is http://127.0.0.1:5000/
