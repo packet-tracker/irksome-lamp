@@ -74,7 +74,7 @@ def main():
     help='specify session ID')
     (options, args) = parser.parse_args()
     session=options.session
-    RHOST=options.RHOST; LHOST=options.LHOS; LPORT=options.LPORT
+    RHOST=options.RHOST; LHOST=options.LHOST; LPORT=options.LPORT
 
     if (RHOST == None) and (LPORT == None) and (LHOST == None):
         print parser.usage
